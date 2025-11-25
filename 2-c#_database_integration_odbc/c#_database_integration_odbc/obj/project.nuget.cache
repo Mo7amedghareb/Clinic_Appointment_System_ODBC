@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xj+co0neaHk=",
+  "success": true,
+  "projectFilePath": "D:\\MiddleWare_Diploma\\C#\\tasks\\2-c#_database_integration_odbc\\c#_database_integration_odbc\\ccharp_database_integration_odbc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MG13\\.nuget\\packages\\system.data.odbc\\10.0.0\\system.data.odbc.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
