@@ -1,4 +1,0 @@
-C:\Users\MG13\source\repos\c#_database_integration_odbc\c#_database_integration_odbc\obj\Debug\net9.0\c#_database_integration_odbc.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MG13\source\repos\c#_database_integration_odbc\c#_database_integration_odbc\obj\Debug\net9.0\c#_database_integration_odbc.AssemblyInfoInputs.cache
-C:\Users\MG13\source\repos\c#_database_integration_odbc\c#_database_integration_odbc\obj\Debug\net9.0\c#_database_integration_odbc.AssemblyInfo.cs
-C:\Users\MG13\source\repos\c#_database_integration_odbc\c#_database_integration_odbc\obj\Debug\net9.0\c#_database_integration_odbc.csproj.CoreCompileInputs.cache
